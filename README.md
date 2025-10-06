@@ -14,6 +14,6 @@ https://www.securitynik.com/2024/03/total-recall-2024-memory-forensics-self.html
 **SQL JERRY CHALLENGE**<br>
 [Write-up for SQL Jerry - Network Forensics (packet and log analysis), USB Disk Forensics, Database Forensics, Stego Challenge](https://www.securitynik.com/2023/09/solving-ctf-challenge-network-forensics.html)   
 <br>
-Same as above: <br>   
+Same as above: <br>
 https://www.securitynik.com/2023/09/solving-ctf-challenge-network-forensics.html
 
