@@ -4,8 +4,7 @@ This repo contains the data for CTF that either I create or my team creates and 
 
 Have fun and do let us know if you find this beneficial.<br>
 
-Write-up for the TOTAL RECALL Memory Forensics Challenge:<br>
-https://www.securitynik.com/2024/03/total-recall-2024-memory-forensics-self.html  
+[Write-up for the TOTAL RECALL Memory Forensics Challenge](https://www.securitynik.com/2024/03/total-recall-2024-memory-forensics-self.html)  
 
 same link as above: <br>
 https://www.securitynik.com/2024/03/total-recall-2024-memory-forensics-self.html <br>
