@@ -1,0 +1,5 @@
+
+# MD5SUM and SHA256SUM for MirrorForge evidence.
+
+MD5: 1ba21337b16befedb937144663505c94  mirrorforge_evidence.7z
+SHA256: 6f23d54f80a30cc4eb04a6d69e5a5e41c790212f560016cc105dd064f7ec4dce  mirrorforge_evidence.7z
