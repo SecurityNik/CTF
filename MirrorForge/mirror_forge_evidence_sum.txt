@@ -1,4 +1,0 @@
-# Hashes for MirrorForge evidence file.
-
-MD5: 961777489bb75db9a187dd8cf1f35350  mirror_forge_evidence.7z
-SHA256: aa710f45314e5bc110b5160754390e1fec92498f348d229d61b14509c744d71a  mirror_forge_evidence.7z
